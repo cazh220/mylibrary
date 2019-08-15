@@ -1,2 +1,3 @@
 # mylibrary
-函数
+常用函数库
+composer 安装
